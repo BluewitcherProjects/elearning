@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1172194916/android.better_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1172194916/android.better_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1394211556/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1394211556/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1044572519/android.wakelock.iml" filepath="$PROJECT_DIR$/.idea/modules/1044572519/android.wakelock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1394211556/io.flutter.plugins.pathprovider.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1394211556/io.flutter.plugins.pathprovider.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1394211556/path_provider-1.6.27.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1394211556/path_provider-1.6.27.android.path_provider.iml" />
+    </modules>
+  </component>
+</project>
